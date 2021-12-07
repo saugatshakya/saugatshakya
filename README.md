@@ -11,19 +11,39 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 22 years  old Flutter Developer Studying at Kathmandu University, Nepal.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Web Development 
+   - ✨ Flutter 
+   - ✨Django 
+   - ✨HTML/CSS/JS 
+
+- ✨ Web Automation & Scrapping 
+   - ✨Selenium 
+   - ✨Beautiful Soup 
+
+- ✨ Scripting 
+   - ✨ Python 
+   - ✨ PHP 
+   - ✨ JS 
+
+- ✨ Database 
+   - ✨ MySql 
+   - ✨ Firebase 
+   - ✨ Hive
+   - ✨ Mongodb
+
+- ✨ Mobile Development 
+   - ✨ Flutter/Dart
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Gaming
+- ✨ Anime
+- ✨ Music
+
 
 </br>
 </br>
