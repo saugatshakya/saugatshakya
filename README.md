@@ -1,7 +1,7 @@
 # Namaste 🙏
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/saugatshakya/saugatshakya/sao-happy.gif.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/saugatshakya/saugatshakya/blob/main/sao-happy.gif">
 </div>
 
 </br>
