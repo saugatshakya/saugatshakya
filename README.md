@@ -1,6 +1,7 @@
 # 👋 Namaste, I'm Saugat Shakya
 
-![Profile Banner](https://raw.githubusercontent.com/saugatshakya/saugatshakya/main/banner.png)
+<!-- Profile Banner -->
+![Profile Banner](https://github.com/saugatshakya/saugatshakya/raw/main/banner.png)
 
 ## 🚀 About Me
 
@@ -40,4 +41,6 @@ I love combining technology with creativity to build apps that leave an impact.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saugatshakya)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saugatshakya.dev)
 
-![Visitor Count](https://profile-counter.glitch.me/saugatshakya/count.svg)
+## 👀 Visitors
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=saugatshakya.saugatshakya)
