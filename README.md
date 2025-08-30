@@ -1,22 +1,25 @@
-# 👋 Hello, I'm Saugat Shakya
+# 👋 Hey there, I'm Saugat Shakya
+
+![Header](https://img.shields.io/badge/AR_Explorer-%F0%9F%8C%90-blueviolet?style=for-the-badge&logo=appveyor)
+![Innovator](https://img.shields.io/badge/Tech_Innovator-%F0%9F%92%A1-orange?style=for-the-badge&logo=appveyor)
 
 ---
 
-## 🌟 About Me
+## 🌌 About Me
 
-I am a passionate developer and tech innovator focused on **AR, Maps, AI, and Mobile Applications**.  
-I enjoy combining creativity with technology to build **immersive, high-impact solutions**.
+I craft **immersive experiences** at the intersection of **AR, AI, and mobile technologies**.  
+My goal: **turn ideas into interactive, intelligent, and unforgettable experiences.**
 
-> "Turning ideas into interactive, intelligent experiences."
+> "Innovation isn’t just coding; it’s sculpting the future."  
 
 ---
 
-### 💡 Areas of Expertise
+### 💥 Core Expertise
 
-- 🌐 **AR & Maps Technology** – Immersive AR solutions and mapping experiences  
-- 📱 **Mobile & Web Development** – Cross-platform apps using Flutter and modern frameworks  
-- 🤖 **AI & Machine Learning** – Intelligent features, simulations, and ecosystem modeling  
-- ⚙️ **DevOps & Automation** – Streamlined workflows and CI/CD pipelines  
+| 🔹 AR & Maps        | 🔹 AI & ML                | 🔹 Mobile Dev           | 🔹 DevOps & Automation |
+|--------------------|--------------------------|------------------------|----------------------|
+| Immersive AR Worlds | Intelligent Features     | Flutter & Cross-Platform | CI/CD & Pipelines    |
+| Interactive Maps   | Simulations & Ecosystems | Responsive Web Apps    | Workflow Automation  |
 
 ---
 
@@ -25,17 +28,16 @@ I enjoy combining creativity with technology to build **immersive, high-impact s
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🌱 Currently Exploring
 
-![AR/VR](https://img.shields.io/badge/AR%2FVR-FF6F61?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-1DA1F2?style=for-the-badge)
+![AR/VR](https://img.shields.io/badge/AR/VR-FF6F61?style=for-the-badge&logo=unity)
+![Cloud](https://img.shields.io/badge/Cloud-1DA1F2?style=for-the-badge&logo=aws)
 ![Edge Computing](https://img.shields.io/badge/Edge%20Computing-00C853?style=for-the-badge)
 ![AI Simulations](https://img.shields.io/badge/AI_Simulations-FF4081?style=for-the-badge)
 
@@ -43,13 +45,13 @@ I enjoy combining creativity with technology to build **immersive, high-impact s
 
 ### 📊 GitHub Stats
 
-![Saugat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saugatshakya&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saugatshakya&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saugatshakya&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=saugatshakya&theme=radical)
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saugat-shakya)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saugatshakya)  
@@ -57,6 +59,6 @@ I enjoy combining creativity with technology to build **immersive, high-impact s
 
 ---
 
-### 👀 Visitors
+### 👀 Profile Views
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=saugatshakya&color=brightgreen)
