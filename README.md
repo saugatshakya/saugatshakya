@@ -1,124 +1,43 @@
-# Namaste 🙏
+# 👋 Namaste, I'm Saugat Shakya
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/saugatshakya/saugatshakya/blob/main/sao-happy.gif">
-</div>
+![Profile Banner](https://raw.githubusercontent.com/saugatshakya/saugatshakya/main/banner.png)
 
-</br>
-</br>
-</br>
+## 🚀 About Me
 
+I'm a passionate developer from Nepal, building innovative solutions at **Galli Maps**. I specialize in:
 
-# About ME 💬 :
+- 🌐 **AR & Maps Technology** – Creating immersive experiences with **Astraverse**  
+- 📱 **Mobile & Web Development** – Cross-platform apps using **Flutter** and **Django**  
+- 🤖 **AI & Machine Learning** – Integrating intelligent features into real-world apps  
+- ⚙️ **DevOps & Automation** – Streamlining workflows and deployments  
 
+I love combining technology with creativity to build apps that leave an impact.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+## 🛠️ Technologies & Tools
 
-### - Learning :
-- ✨ Web Development 
-   - ✨ Flutter 
-   - ✨Django 
-   - ✨HTML/CSS/JS 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- ✨ Web Automation & Scrapping 
-   - ✨Selenium 
-   - ✨Beautiful Soup 
+## 🌱 Currently Learning
 
-- ✨ Scripting 
-   - ✨ Python 
-   - ✨ PHP 
-   - ✨ JS 
+![AR/VR](https://img.shields.io/badge/AR%2FVR-FF6F61?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-1DA1F2?style=for-the-badge)
+![Edge Computing](https://img.shields.io/badge/Edge%20Computing-00C853?style=for-the-badge)
 
-- ✨ Database 
-   - ✨ MySql 
-   - ✨ Firebase 
-   - ✨ Hive
-   - ✨ Mongodb
+## 📊 GitHub Stats
 
-- ✨ Mobile Development 
-   - ✨ Flutter/Dart
+![Saugat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saugatshakya&show_icons=true&theme=radical&count_private=true)
 
-### - Hobbies : 
-- ✨ Gaming
-- ✨ Anime
-- ✨ Music
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saugatshakya&layout=compact&theme=radical)
 
+## 📫 Connect with Me
 
-</br>
-</br>
-</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saugat-shakya) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saugatshakya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saugatshakya.dev)
 
-
-
-<!-- # Languages & Tools 👨‍💻 🛠: -->
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<!-- 
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50"> -->
-</p>
-</br>
-</br>
-</br>
-
-
-
-<!-- # Contact Me : -->
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-<!-- 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p> -->
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/saugatshakya/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=saugatshakya&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
+![Visitor Count](https://profile-counter.glitch.me/saugatshakya/count.svg)
